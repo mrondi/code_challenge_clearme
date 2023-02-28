@@ -1,6 +1,6 @@
 ## Code Challenge para Clearme
 
-### Features
+### Code Features
 
 * Mongoose Transform: Para eliminar y renombrar claves en los documentos
 * Schema Validation: Para validar formato de email
