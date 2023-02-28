@@ -1,0 +1,27 @@
+{
+  "name": "code_challenge_clearme",
+  "version": "1.0.0",
+  "description": "clear me code challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "nyc mocha"
+  },
+  "author": "mauro rondinelli",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "nyc": "^15.1.0",
+    "supertest": "^6.3.3",
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0"
+  }
+}
