@@ -1,11 +1,11 @@
 ## Code Challenge para Clearme
-Se incluye código de Api Rest, algunos units test y la base de datos está alojada en Atlas.
 
 ### Features
 
-Mongoose Transform: Para eliminar y renombrar claves en los documentos
-Schema Validation: Para validar formato de email
-Mongoose Hooks: Para actualzar fechas de creacion y relaciones
+* Mongoose Transform: Para eliminar y renombrar claves en los documentos
+* Schema Validation: Para validar formato de email
+* Mongoose Hooks: Para actualzar fechas de creacion y relaciones
+* Mongo DB Atlas
 
 ### Instalación:
 
